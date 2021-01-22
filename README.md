@@ -2,9 +2,9 @@
 
 **Co-authors: [@GregB712](https://github.com/GregB712), [@nikopetr](https://github.com/nikopetr), [@constantinosloizou](https://github.com/constantinosloizou), [@loukashadjivasilis](https://github.com/loukashadjivasilis)**
 
-<p align="center">
+
 <img src="https://user-images.githubusercontent.com/37048205/105557304-8c545c00-5d14-11eb-9d34-97eeee9fc769.png" width="500" height="320" />
-</p>
+
 
 Implementation of an auction system, where different bots with different strategies can participate and compete with one another. The ultimate goal for the bots is to win as many auctions as possible, with the least amount of money spent.
 
